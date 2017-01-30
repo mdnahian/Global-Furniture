@@ -159,3 +159,84 @@ table th, table td {
 .is-active .nav-item {
 	color:#4a4a4a;
 }
+
+.home {
+	z-index:-1;
+	background-color:transparent;
+	padding-bottom:0;
+}
+
+.white {
+	color:#ffffff;
+}
+
+.navbar-clear {
+	background-color:transparent;
+}
+
+.fancy-bg {
+	background-color:#000000;
+	background:url('../img/bg.jpg');
+	background-size:cover;
+	background-position:center bottom;
+	background-repeat:no-repeat;
+}
+
+
+
+.bg-sofa img {
+	width:100%;
+}
+
+.border-all {
+	padding:10px;
+	border:2px black solid;
+}
+
+.border-white {
+	border-color:#ffffff;
+}
+
+.no-padding {
+	padding:0;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+.about {
+	background:url('../img/about.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	min-height:450px;
+}
+
+.specials {
+	background:url('../img/specials.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	min-height:450px;
+}
+
+
+.is-blue {
+	background-color:#166cc2;
+	border-color:#166cc2;
+}
+
+.is-blue-light {
+	background-color:#00aeef;
+	border-color:#00aeef;
+	color:#ffffff;
+}
+
+.is-blue-light:hover {
+	background-color:#29abe2;
+	border-color:#29abe2;
+	color:#ffffff;
+}
+
+.no-radius {
+	border-radius:0;
+}
